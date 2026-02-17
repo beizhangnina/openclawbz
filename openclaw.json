@@ -1,10 +1,5 @@
 {                                                                                                             
     "gateway": {                                                                                                
       "trustedProxies": ["0.0.0.0/0"]                                                                           
-    },                                                                                                          
-    "channels": {                                                                                               
-      "telegram": {                                                                                             
-        "allowlist": ["1060633497"]                                                                             
-      }                                                                                                         
-    }                                                                                                           
+    }                                                                                                       
   }   
